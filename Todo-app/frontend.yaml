@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    path: Frontend/task-management
+    path: Frontend/task-management/deployment
     repoURL: >-
       https://github.com/SherifEmad20/Simple-todo-app-devops-cycle.git
     targetRevision: HEAD
